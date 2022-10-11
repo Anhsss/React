@@ -3,7 +3,6 @@ import Myweb2 from './Myweb2'
 
 function Myweb1() {
   return (
-    <>
     <header>
     <section>
     <div className="header_left">프론트엔드<br/>FrontEnd</div>
@@ -12,8 +11,6 @@ function Myweb1() {
     </div>
     </section>
   </header>
-  <Myweb2/>
-  </>
   );
 }
 
